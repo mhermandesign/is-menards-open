@@ -96,9 +96,9 @@ if (tomorrow.closing === 8) {
 if (isOpen) {
     response.src = 'images/YES.png';
     response.alt = 'YES!';
-    storeHours.textContent = `Open today from ${today.opening}AM until ${today.closing}PM`;
+    storeHours.textContent = `Open in Ames, IA today from ${today.opening}AM until ${today.closing}PM`;
 } else {
     response.src = 'images/NO.png';
     response.alt = 'NO!';
-    storeHours.textContent = `Open tomorrow from ${tomorrow.opening}AM until ${tomorrow.closing}PM`;
+    storeHours.textContent = `Open in Ames, IA tomorrow from ${tomorrow.opening}AM until ${tomorrow.closing}PM`;
 }
