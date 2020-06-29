@@ -1,7 +1,7 @@
 # is-menards-open
 Is Menards open in Ames, IA?
 
-http://mattherman.design/is-menards-open/
+https://mhermandesign.github.io/is-menards-open/
 
 ---
 ## Description
