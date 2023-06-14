@@ -21,14 +21,3 @@ Some of my personal challenges for this project included:
 + Working with a 24hr clock, which I always fail to wrap my head around
 + Making use of the Date() object, which was trickier than I'd expected
 + Displaying information dynamically based on multiple factors, such as "Menards is closed, but will open tomorrow at X:XXAM" or "Menards will be closing in X hour(s)".
-
-## Next Steps
-
-If I find the time to revisit this project, I plan on improving the following: polishing the appearance a bit and adding some QoL improvements like the current time, the weekly schedule, and 
-
-| Planned | Completed? |
-| --- | :---: |
-| Polish Appearance | No |
-| Current Time | No |
-| Weekly Schedule | No |
-| Map w/ Directions | No |
